@@ -2,7 +2,8 @@ Model pentru prezicerea bolii de inima.
 Am decis sa fac un model de prezicere a sansei ca un pacient sa aiba o boala de inima datorita utilitatii acestor modele in situatii din viata reala,
 organizația mondială a sănătății  estimează că 17,9 milioane de oameni mor în fiecare an din cauza bolilor cardiovascular.
 De asemenea am decis sa fac aceasta aplicatie datorita faptului ca este un bun prim pas pentru a invata conceptul de machine learning.
-Tehnologii folosite: jupyter notebook si python.
+Tehnologii folosite: jupyter notebook si python. 
+
 Database-ul care va fi folosit pentru acest model se afla la: https://archive.ics.uci.edu/dataset/45/heart+disease 
 Acest dabase are datele a 303 pacienti incluzand urmatoarele atribute:
 
